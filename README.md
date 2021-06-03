@@ -11,3 +11,4 @@ python producer.py
 python consumer.py
 ```
 Also you can take a look detailed article:
+https://www.sezerbozkir.com/2021/06/python-ile-apache-kafka-icin-consumer-ve-procuder-olusturma/
